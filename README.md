@@ -56,7 +56,7 @@ Project Images:
 
 Documentation:
 
- [Project Report](docs/Fire_Fighting_Robot_Report_github.pdf)
+ [Project Report]([docs/Fire_Fighting_Robot_Report_github.pdf](https://github.com/vadivelvaishnavi/AUTONOMOUS_FIRE_FIGHTING_ROBOT/blob/main/doc/Fire_Fighting_Robot_Report_github.pdf))
 
 
 Results & Performance:
