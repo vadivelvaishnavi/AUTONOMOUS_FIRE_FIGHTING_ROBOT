@@ -49,6 +49,8 @@ Activates pump and sweeps nozzle to extinguish flames.
 Resumes movement after suppression.
 
 Project Images:
+
+
 ![Robot 1](images/fire_fighting_bot1.jpg)
 ![Robot 2](images/fire_fighting_bot2.jpg)
 ![Robot 3](images/fire_fighting_bot3.jpg)
