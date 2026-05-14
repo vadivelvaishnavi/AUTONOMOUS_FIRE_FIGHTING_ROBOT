@@ -54,11 +54,6 @@ Project Images:
 ![Robot 3](images/fire_fighting_bot3.jpg)
 ![Robot 4](images/fire_fighting_bot4.jpg)
 
-Documentation:
-
- [Project Report]([docs/Fire_Fighting_Robot_Report_github.pdf](https://github.com/vadivelvaishnavi/AUTONOMOUS_FIRE_FIGHTING_ROBOT/blob/main/doc/Fire_Fighting_Robot_Report_github.pdf))
-
-
 Results & Performance:
 Fire Detection Accuracy: ~90%
 Response Time: < 3 seconds
