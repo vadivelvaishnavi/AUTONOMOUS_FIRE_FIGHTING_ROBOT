@@ -48,6 +48,17 @@ Stops and positions toward fire.
 Activates pump and sweeps nozzle to extinguish flames.
 Resumes movement after suppression.
 
+Project Images:
+![Robot 1](images/fire_fighting_bot1.jpg)
+![Robot 2](images/fire_fighting_bot2.jpg)
+![Robot 3](images/fire_fighting_bot3.jpg)
+![Robot 4](images/fire_fighting_bot4.jpg)
+
+Documentation:
+
+ [Project Report](docs/Fire_Fighting_Robot_Report_github.pdf)
+
+
 Results & Performance:
 Fire Detection Accuracy: ~90%
 Response Time: < 3 seconds
